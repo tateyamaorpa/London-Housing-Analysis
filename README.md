@@ -1,1 +1,1 @@
-# London-Housing-Analysis
+A comprehensive, research‑grade analysis of London’s housing market using 13,549 monthly records (1995–2020) and 1,071 yearly socioeconomic records (1999–2019). This project integrates time‑series modelling, clustering, econometrics, and exploratory data analysis to uncover long‑term price dynamics, affordability trends, and the socioeconomic forces shaping London’s housing landscape.
